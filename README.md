@@ -52,6 +52,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install pandas numpy scikit-learn flask nltk
 ```
+---
 ## 📊 Run the Notebook
 Use the Jupyter notebook recommendor.ipynb to:
 
@@ -60,6 +61,8 @@ Use the Jupyter notebook recommendor.ipynb to:
 - Build similarity matrix
 
 - Generate movie recommendations
+
+---
 
 ## 🌐 Run the Flask Web App
 ```bash
