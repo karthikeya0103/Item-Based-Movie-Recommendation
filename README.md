@@ -38,7 +38,7 @@ A **Content-Based Movie Recommender System** that uses metadata like genres, cas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/karthikeya0103/tmdb-movie-recommender.git
+git clone https://github.com/karthikeya0103/Item-Based-Movie-Recommendation.git
 cd Item-Based-Movie-Recommendation
 ```
 ### 2. Setup Virtual Environment
