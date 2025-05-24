@@ -50,7 +50,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### 3. Install Dependencies
 
 ```bash
-pip install pandas numpy scikit-learn flask nltk
+pip install pandas numpy scikit-learn flask nltk streamlit
+
 ```
 ---
 ## 📊 Run the Notebook
