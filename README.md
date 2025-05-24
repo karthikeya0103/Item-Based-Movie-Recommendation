@@ -64,8 +64,8 @@ Use the Jupyter notebook recommendor.ipynb to:
 
 ---
 
-## 🌐 Run the Flask Web App
+## 🌐 Run the Streamlit Web App
 ```bash
-python app.py
+streamlit run app.py
 ```
 
